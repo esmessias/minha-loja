@@ -7,7 +7,7 @@ let imgId = 1;
 
 //add imagens
 const images = [
-  { 'id': '1', 'url': '../img/banners/img1.jpg'},
+  { 'id': '1', 'url': 'assets/img/banners/img1.jpg'},
   { 'id': '2', 'url': './img/banners/img2.jpg'},
   { 'id': '3', 'url': './img/banners/img3.jpg'},
   { 'id': '4', 'url': './img/banners/img4.jpg'},
